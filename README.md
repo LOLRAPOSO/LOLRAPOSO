@@ -1,16 +1,14 @@
-## Hi there 👋
+# HI GUYS!!! 💖
 
-<!--
-**LOLRAPOSO/LOLRAPOSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer, but also interested in web/product design. Despite being a Game Dev, i'm an artist too, hoping to master my programming skills to boost my capacity of creating games, sites, and digital/eletronic products in general.
 
-Here are some ideas to get you started:
+## Current Skills 🎨💻:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50">
+
+
+
+
+
+
+
