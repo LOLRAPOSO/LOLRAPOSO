@@ -14,8 +14,8 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 
 ### Professional contacts:
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheuslimaramalho/" ></img>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="matheuslimaramalho888@gmail.com"></img>
+<a href="https://www.linkedin.com/in/matheuslimaramalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="matheuslimaramalho888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></img></a>
 
 ## And also, you can follow me on:
 
