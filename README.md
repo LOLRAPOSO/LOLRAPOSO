@@ -14,11 +14,9 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 
 ### Professional contacts:
 
-<a class="linkedin" href="https://www.linkedin.com/in/matheuslimaramalho/">LinkedIn</a> <a class="gmail" href="matheuslimaramalho888@gmail.com">Gmail</a>
+<a class="linkedin" href="https://www.linkedin.com/in/matheuslimaramalho/" style=".linkedin {background-color: rgb=(0,114,117);}">LinkedIn</a> <a class="gmail" href="matheuslimaramalho888@gmail.com">Gmail</a>
 <style>
-  .linkedin {
-    background-color: rgb=(0,114,117);
-  }
+  .linkedin {background-color: rgb=(0,114,117);}
   .gmail {
     background-color: rgb=(255,62,48);
   }
