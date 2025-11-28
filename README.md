@@ -14,10 +14,13 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 
 ### Professional contacts:
 
-<div background-color: rgb=(0,114,117)>LinkedIn: <a href="https://www.linkedin.com/in/matheuslimaramalho/" >Matheus Lima Ramalho</a></div>
-<div background-color: rgb=(255,62,48)>Gmail: <a href="matheuslimaramalho888@gmail.com">matheuslimaramalho888@gmail.com</a></div>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheuslimaramalho/" ></img>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="matheuslimaramalho888@gmail.com"></img>
 
+## And also, you can follow me on:
 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/raposo_oso/"></img>
+<img scr="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/16058.png" widht="30" widht="30" href="https://www.tumblr.com/blog/mathzu"></img>
 
 
 
