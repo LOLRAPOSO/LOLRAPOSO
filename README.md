@@ -8,7 +8,7 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 
 ## Skills i'm learning 📚⬆:
 
-<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/html.png"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/javascript-logo-javascript-icon-transparent-free-png.webp"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/unreal-engine.png">
+<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/html.png" width="50" height="50"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/javascript-logo-javascript-icon-transparent-free-png.webp" width="50" height="50"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/unreal-engine.png" width="50" height="50">
 
 ## In case you are interested, here's my contacts:
 
