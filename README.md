@@ -4,10 +4,7 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 
 ## Current Skills 🎨💻:
 
-<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50"> 
-<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/kritaicon.png" alt="Krita" width="50" height="50">
-<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
-<img src="">
+<img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50"> <img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/kritaicon.png" alt="Krita" width="50" height="50"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
 
 
 
