@@ -20,7 +20,7 @@ Game Developer, but also interested in web/product design. Despite being a Game 
 ## And also, you can follow me on:
 
 <a href="https://www.instagram.com/raposo_oso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href="https://www.tumblr.com/blog/mathzu"><img scr="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/16058.png"></img></a>
+<a href="https://www.tumblr.com/blog/mathzu"><img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/16058.png"></img></a>
 
 
 
